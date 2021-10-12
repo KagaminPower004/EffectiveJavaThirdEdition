@@ -1,4 +1,4 @@
-package Chapter02;
+package Chapter02.item01;
 
 public class Pure {
     public static void main(String args[]) {
